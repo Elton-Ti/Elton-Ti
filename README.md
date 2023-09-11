@@ -1,6 +1,6 @@
 - 👋 Oi, Sou o  @Elton-Ti
-- 👀 Eu estou interessado em ser um programador no futuro
-- 🌱 Estou estudando HTML / JAVA / JSF / VBA / CSS.
+- 👀 Eu estudando para ser um bom programador web
+- 🌱 Estudo HTML / JAVA / JSF / REACT / CSS / JAVASCRIPT.
 - 📫 Estágiario em Desenvolvimento e Analise de Sistemas
 
 <!---
