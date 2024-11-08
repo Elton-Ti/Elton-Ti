@@ -1,9 +1,9 @@
-- 👋 Oi, Sou o  @Elton-Ti
-- 👀 Eu estudando para ser um bom programador web
-- 🌱 Estudo HTML / JAVA / JSF / REACT / CSS / JAVASCRIPT.
-- 📫 Estágiario em Desenvolvimento e Analise de Sistemas
+👋 Olá, sou o @Elton-Ti!
 
-<!---
-Elton-Ti/Elton-Ti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔍 Em constante evolução para me tornar um programador web de excelência!
+
+🌱 Atualmente, estou aprimorando minhas habilidades em HTML, Java, JSF, React, CSS e JavaScript.
+
+💼 Estagiário em Desenvolvimento e Análise de Sistemas, com experiência prática em criação de soluções e análise de sistemas.
+
+📬 Vamos conversar? Estou sempre aberto a novas oportunidades e desafios!
