@@ -1,9 +1,18 @@
-👋 Olá, sou o @Elton-Ti!
+# Cadastro de Usuários em React
 
-🔍 Em constante evolução para me tornar um programador web de excelência!
+Aplicação React que permite o cadastro, listagem e exclusão de usuários.
 
-🌱 Atualmente, estou aprimorando minhas habilidades em HTML, Java, JSF, React, CSS e JavaScript.
+## 🛠️ Tecnologias
 
-💼 Estagiário em Desenvolvimento e Análise de Sistemas, com experiência prática em criação de soluções e análise de sistemas.
+- React.js
+- JavaScript
+- Tailwind CSS
+- Vite
 
-📬 Vamos conversar? Estou sempre aberto a novas oportunidades e desafios!
+## 🚀 Como executar
+
+```bash
+git clone https://github.com/Elton-Ti/atividade_react
+cd atividade_react
+npm install
+npm run dev
